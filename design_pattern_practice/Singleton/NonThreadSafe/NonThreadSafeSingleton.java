@@ -1,4 +1,4 @@
-package design_pattern_practice;
+package design_pattern_practice.Singleton.NonThreadSafe;
 
 public class NonThreadSafeSingleton {
     private static NonThreadSafeSingleton _instance;

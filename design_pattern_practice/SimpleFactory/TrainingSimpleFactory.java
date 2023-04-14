@@ -1,4 +1,4 @@
-package design_pattern_practice;
+package design_pattern_practice.SimpleFactory;
 
 public class TrainingSimpleFactory {
 	public static Adventurer trainAdventurer(String type) {
