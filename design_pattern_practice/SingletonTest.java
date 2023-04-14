@@ -6,6 +6,8 @@ import java.util.Set;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import design_pattern_practice.Singleton.ThreadSafe.ThreadSafeSingleton;
+
 public class SingletonTest extends Thread {
 	static Set<Integer> code = new HashSet<>();
 	

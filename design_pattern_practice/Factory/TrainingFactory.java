@@ -1,4 +1,6 @@
-package design_pattern_practice;
+package design_pattern_practice.Factory;
+
+import design_pattern_practice.SimpleFactory.Adventurer;
 
 public interface TrainingFactory {
 	/**
