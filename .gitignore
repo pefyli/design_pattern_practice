@@ -1,2 +1,2 @@
 /test-output/*
-/design_pattern_practice/*.class
+/design_pattern_practice/**/*.class
